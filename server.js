@@ -1,6 +1,6 @@
 import express from 'express';
-//import { PrismaClient } from '../nodejs e react/generated/prisma/index.js';
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient } from '../nodejs e react/generated/prisma/index.js';
+//import { PrismaClient } from '@prisma/client';
 
 //import { PrismaClient } from '@prisma/client'
 
